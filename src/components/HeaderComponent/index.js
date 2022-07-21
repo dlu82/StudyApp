@@ -8,7 +8,7 @@ const index = ({isBack, isHeart, TapOn}) => {
   const navigation = useNavigation();
 
   const didTapOnBack = () => {
-    console.log('dilsghad===');
+    console.log('dilshad===');
     navigation.goBack();
   };
 
